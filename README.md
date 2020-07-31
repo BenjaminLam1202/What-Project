@@ -87,7 +87,7 @@ APP_URL=http:http://<YOURS-URL>
 ```
 DOMAIN=<YOURS-URL>
 ```
-okay you good to go 
+okay you are good to go 
 
 ## Built With
 

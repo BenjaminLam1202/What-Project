@@ -77,12 +77,12 @@ config this in config\service.php
     'google' => [
         'client_id' => '275382881455-ph7f6q0r2mev0m4j65kb0knsobb1eaa0.apps.googleusercontent.com',
         'client_secret' => 'VSZDN8HZDJ18JsVjlK4Kn28f',
-        'redirect' => 'http://full.hilton.com/callback/google',
+        'redirect' => 'http://<YOURS-URL>/callback/google',
     ],
 ```
 fix AppURL and Domain 
 ```
-APP_URL=http:http://<YOURS-URL>
+APP_URL=http://<YOURS-URL>
 ```
 ```
 DOMAIN=<YOURS-URL>
